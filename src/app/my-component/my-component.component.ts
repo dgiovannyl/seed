@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./my-component.component.css'],
 })
 export class MyComponentComponent implements OnInit {
-  name = 'Dayro';
+  name = 'Dayro Longas';
   count = 0;
   imgSource =
     'https://www.facevertizing.com/wp-content/uploads/2016/05/Nailed-It-Baby-Meme-06.jpg';
